@@ -1,5 +1,5 @@
 # QV_True_Preference_Analysis
-This repository hosts the source code and datasets for the CSCW'21 paper <b>"I can show what I really like.": Eliciting Preferences via Quadratic Voting.
+This repository hosts the source code and datasets for the CSCW'21 paper <strong>"I can show what I really like.": Eliciting Preferences via Quadratic Voting</strong>.
   
 If you are using the datasets, please cite it in one of the following manners: 
 
